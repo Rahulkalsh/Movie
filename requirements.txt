@@ -8,6 +8,5 @@ tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
 bs4==0.0.1 
 imdbpy==2022.7.9
-numpy==1.21.2
 werkzeug==2.2.2
 gunicorn==21.2.0
